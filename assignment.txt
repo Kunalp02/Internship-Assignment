@@ -85,3 +85,13 @@ plt.show()
 next_day_price = predict_next_day_price(df)
 
 print('Next day price:', next_day_price)
+
+
+// Output 
+
+"C:\Users\i7tuf\.virtualenvs\Internship Assignment\Scripts\python.exe" "C:\Kunal\Python\Internship Assignment\main.py" 
+ARIMA RMSE: 126.83872098482047
+ARIMA Profit/Loss: -390.09324855016166
+Next day price: 17589.66818963917
+
+Process finished with exit code 0
